@@ -1,0 +1,3 @@
+# Swift Type Mismatch Error
+
+This repository demonstrates a common Swift error: passing an argument of an incorrect type to a function.  The `bug.swift` file shows the erroneous code, while `bugSolution.swift` provides the corrected version. The issue arises from trying to pass a String to a function expecting a Double.  The solution highlights the importance of ensuring type consistency in Swift function calls and demonstrates how to correctly convert a String to a Double.
